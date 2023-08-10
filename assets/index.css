@@ -14,7 +14,7 @@ section {
 .section1 {
     background: linear-gradient(180deg, #7CA5B8 0.38%, #8AAEBE 26.84%, #6794AD 57.28%, #6A8DA0 91.56%, #65879B 99.71%);
     display: flex;
-    justify-content: right;
+    justify-content: end;
 }
 
 .section2 {
