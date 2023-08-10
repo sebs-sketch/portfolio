@@ -18,6 +18,8 @@ section {
 }
 
 .section2 {
+    height: 1024px;
+    width: 1440px;
     background: linear-gradient(91deg, #65879B 3.69%, #65879B 18.88%, #608296 28.27%, #809DAA 71.40%, #839EA9 96.50%);
 }
 
